@@ -1,0 +1,12 @@
+{
+  "name": "Proxy Extension",
+  "description": "Simple proxy extension for youtube and other google services",
+  "version": "0.1",
+  "manifest_version": 3,
+  "permissions": [
+    "proxy"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
