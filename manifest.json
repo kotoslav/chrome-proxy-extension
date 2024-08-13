@@ -6,7 +6,7 @@
   "permissions": [
     "proxy"
   ],
-  "action": {
-    "default_popup": "popup.html"
+  "background": {
+    "service_worker": "service-worker.js"
   }
 }
